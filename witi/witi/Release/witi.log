@@ -1,0 +1,9 @@
+﻿  witi.cpp
+c:\users\piniu\onedrive\dokumenty\studia\spd\witi\witi\witi.cpp(100): warning C4244: "-=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\piniu\onedrive\dokumenty\studia\spd\witi\witi\witi.cpp(126): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 284 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  witi.vcxproj -> C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\witi\Release\witi.exe

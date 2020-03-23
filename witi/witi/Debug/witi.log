@@ -1,0 +1,4 @@
+﻿  witi.cpp
+c:\users\piniu\onedrive\dokumenty\studia\spd\witi\witi\witi.cpp(100): warning C4244: "-=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\piniu\onedrive\dokumenty\studia\spd\witi\witi\witi.cpp(126): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  witi.vcxproj -> C:\Users\piniu\OneDrive\Dokumenty\Studia\SPD\witi\Debug\witi.exe
